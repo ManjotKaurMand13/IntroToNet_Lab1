@@ -1,0 +1,15 @@
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/bin/Debug/net6.0/Lab1.IntrotoLINQ
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/bin/Debug/net6.0/Lab1.IntrotoLINQ.deps.json
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/bin/Debug/net6.0/Lab1.IntrotoLINQ.runtimeconfig.json
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/bin/Debug/net6.0/Lab1.IntrotoLINQ.dll
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/bin/Debug/net6.0/Lab1.IntrotoLINQ.pdb
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/Lab1.IntrotoLINQ.csproj.AssemblyReference.cache
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/Lab1.IntrotoLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/Lab1.IntrotoLINQ.AssemblyInfoInputs.cache
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/Lab1.IntrotoLINQ.AssemblyInfo.cs
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/Lab1.IntrotoLINQ.csproj.CoreCompileInputs.cache
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/Lab1.IntrotoLINQ.dll
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/refint/Lab1.IntrotoLINQ.dll
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/Lab1.IntrotoLINQ.pdb
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/Lab1.IntrotoLINQ.genruntimeconfig.cache
+/Users/manjotkaurmand/Projects/Lab1.IntrotoLINQ/Lab1.IntrotoLINQ/obj/Debug/net6.0/ref/Lab1.IntrotoLINQ.dll
